@@ -6263,6 +6263,7 @@ h3, .h3 {
 
 .grid-item {
   width: 33%;
+  min-height: 240px;
   padding: 15px; }
   @media (max-width: 768px) {
     .grid-item {
